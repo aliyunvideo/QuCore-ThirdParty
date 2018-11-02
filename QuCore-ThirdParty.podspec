@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "QuCore-ThirdParty"
-  s.version      = "3.6.2"
+  s.version      = "3.7.5"
   s.summary      = "aliyun video third party lib"
 
   # This description is used to generate tags and improve search results.
@@ -97,7 +97,7 @@ Pod::Spec.new do |s|
 
   # s.public_header_files = "Classes/**/*.h"
 
-  s.vendored_frameworks = "frameworks/QuCore-ThirdParty.framework"
+  s.vendored_frameworks = "frameworks/alivcffmpeg.framework"
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
