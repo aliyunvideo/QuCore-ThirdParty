@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "QuCore-ThirdParty"
-  s.version      = "3.7.7.1"
+  s.version      = "3.7.7.2"
   s.summary      = "aliyun video third party lib"
 
   # This description is used to generate tags and improve search results.
@@ -40,7 +40,7 @@ Pod::Spec.new do |s|
   #  Popular ones are 'MIT', 'BSD' and 'Apache License, Version 2.0'.
   #
 
-  # s.license      = "Apache License, Version 2.0" 
+  # s.license      = "Apache License, Version 2.0"
   s.license      = { :type => "Apache License, Version 2.0", :file => "LICENSE" }
 
 
