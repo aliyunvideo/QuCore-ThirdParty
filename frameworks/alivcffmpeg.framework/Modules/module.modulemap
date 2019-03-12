@@ -1,6 +1,0 @@
-framework module alivcffmpeg {
-  umbrella header "alivcffmpeg.h"
-
-  export *
-  module * { export * }
-}
